@@ -9,7 +9,6 @@ This course covers a broad range of topics in Natural Language Processing, from 
 
 ## Exercises Overview
 
-Below is a table of the exercises included in this repository, along with a brief description of each:
 
 | Exercise        | Topic                           | Description                                  |
 |-----------------|---------------------------------|----------------------------------------------|
