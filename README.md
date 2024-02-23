@@ -10,7 +10,7 @@ This course covers a broad range of topics in Natural Language Processing, from 
 ## Exercises Overview
 
 
-| Exercise        | Topic                           | Description                                  |
+| Exercise         | Topic                           | Description                                  |
 |-----------------|---------------------------------|----------------------------------------------|
 | [Exercise 1](https://github.com/Neilus03/NLP-2024/blob/c8567d430eacc96d02a7652d7a1b9a902501e730/tokenization_%26_basic_statistics.ipynb)      | Tokenization & Basic Statistics | Introduction to text tokenization and computing basic text statistics such as word frequency, sentence length, etc. |
 | [Exercise 2](https://github.com/Neilus03/NLP-2024/blob/293cd4d1ad46569346846ed89c5dcd4242203c51/LAB2-N-grams_%26_Language_Modelling.ipynb)    | N-grams & Language Modelling | Introduction to N-grams, and simple Language Models. Computing next token given the previous one. Naive approach. |
