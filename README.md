@@ -1,6 +1,6 @@
 # Natural Language Processing Exercises (2024)
 
-Welcome to the repository for the Natural Language Processing (NLP) course exercises for the year 2024. This repository contains a series of hands-on exercises designed to introduce students to the fundamentals and advanced concepts of NLP.
+Welcome to the repository for the Natural Language Processing (NLP) course exercises for the year 2024. This repository contains a series of hands-on exercises designed to introduce students to the fundamentals and advanced concepts of NLP. 
 
 ## Course Overview
 
