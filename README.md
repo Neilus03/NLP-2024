@@ -16,4 +16,4 @@ This course covers a broad range of topics in Natural Language Processing, from 
 | [Exercise 2](https://github.com/Neilus03/NLP-2024/blob/293cd4d1ad46569346846ed89c5dcd4242203c51/LAB2-N-grams_%26_Language_Modelling.ipynb)    | N-grams & Language Modelling | Introduction to N-grams, and simple Language Models. Computing next token given the previous one. Naive approach. |
 |[Exercise 3](https://github.com/Neilus03/NLP-2024/blob/main/LAB3_Word_normalization.ipynb)| Word Normalization & POS Tagging| Introduction to word normalization (stopwords, stemming..) and Training of a Decision Tree classifier for POS tagging|
 |[Exercise 4](https://github.com/Neilus03/NLP-2024/blob/main/LAB4_Semantic_embeddings.ipynb)| Semantic embeddings| Introduction to semantic embeddings using SPACY (Word2vec)|
-
+|[Exercise 5](https://github.com/Neilus03/NLP-2024/blob/main/LAB5_LSTM_for_sentiment_analysis.ipynb)| LSTM for Sentiment Analysis| Using LSTMs to classify product reviews as positive or negative |
