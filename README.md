@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Natural Language Processing (NLP) course exercises for the year 2024. This repository contains a series of hands-on exercises designed to introduce students to the fundamentals and advanced concepts of NLP. 
 
-## Course Overview 
+## Course Overview  
 
 This course covers a broad range of topics in Natural Language Processing, from basic text processing and analysis to advanced deep learning-based NLP models. The exercises are structured to complement the theoretical knowledge gained in lectures with practical, real-world applications.
 
