@@ -17,4 +17,4 @@ This course covers a broad range of topics in Natural Language Processing, from 
 |[Exercise 3](https://github.com/Neilus03/NLP-2024/blob/main/LAB3_Word_normalization.ipynb)| Word Normalization & POS Tagging| Introduction to word normalization (stopwords, stemming..) and Training of a Decision Tree classifier for POS tagging|
 |[Exercise 4](https://github.com/Neilus03/NLP-2024/blob/main/LAB4_Semantic_embeddings.ipynb)| Semantic embeddings| Introduction to semantic embeddings using SPACY (Word2vec)|
 |[Exercise 5](https://github.com/Neilus03/NLP-2024/blob/main/LAB5_LSTM_for_sentiment_analysis.ipynb)| LSTM for Sentiment Analysis| Using LSTMs to classify product reviews as positive or negative |
-|[Exercise 6](https://github.com/Neilus03/NLP-2024/blob/main/LAB6_Machine_Translation)| GRU for seq2seq Machine translation | Using GRU RNNs to translate texts from italian to english, used attention as well. |
+|[Exercise 6](https://github.com/Neilus03/NLP-2024/blob/main/LAB6_Machine_Translation.ipynb)| GRU for seq2seq Machine translation | Using GRU RNNs to translate texts from italian to english, used attention as well. |
