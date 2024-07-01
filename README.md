@@ -5,7 +5,7 @@ Welcome to the repository for the Natural Language Processing (NLP) course exerc
 ## Course Overview    
 
 This course covers a broad range of topics in Natural Language Processing, from basic text processing and analysis to advanced deep learning-based NLP models. The exercises are structured to complement the theoretical knowledge gained in lectures with practical, real-world applications.
-
+ 
   
 ## Exercises Overview
 
